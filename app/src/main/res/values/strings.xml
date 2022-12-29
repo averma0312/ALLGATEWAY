@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ALLGATEWAY</string>
+
+    <string name="create_account">Dont Have An Account? <p color="blue">Click Here</p></string>
+</resources>
